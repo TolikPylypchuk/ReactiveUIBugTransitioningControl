@@ -1,4 +1,4 @@
-# ReactiveUI Bug with TransitioningControl Reproduction
+# ReactiveUI Bug with TransitioningContentControl Reproduction
 
 This is a simple WPF repository for reproducing a bug in ReactiveUI 12.1.1.
 
